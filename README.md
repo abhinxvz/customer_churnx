@@ -102,3 +102,6 @@ This project demonstrates the power of data analytics and machine learning in pr
 ---
 
 ## Future Work
+Future enhancements could include:
+
+Incorporating additional features, such as customer interactions or feedback
